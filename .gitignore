@@ -1,0 +1,15 @@
+# 🔐 NUNCA suba sua chave de API para o GitHub
+.env
+
+# Arquivos gerados automaticamente pelo Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Lixo de sistema
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
